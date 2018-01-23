@@ -1,0 +1,16 @@
+{
+    "name": "koloocheh/calendar",
+    "type": "library",
+    "description": "calendar for PHP",
+    "keywords": ["calendar","php"],
+    "homepage": "https://github.com/Koloocheh/calendar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saeideng"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
